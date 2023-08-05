@@ -1,0 +1,305 @@
+{
+  "uuid": "232c6a38302a2fc4cbce04ab85c2d270",
+  "path": "Offline/fnl",
+  "name": "fnl",
+  "content": "",
+  "created_at": "2023-06-12 22:22:57",
+  "updated_at": "2023-06-14 16:15:48",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "96f6894f73e060662351e5920e8625c3",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "86f58b76cf18416fb0b452fc0bdcc130": 4,
+        "908ced202529416bac1203a9b300d842": 1,
+        "ba1f207f2c0447edbd5beb657b435022": 1,
+        "b82150387a2041b4afd55b90c79c5923": 4,
+        "714512e4b6984cfc945e221936c566fe": 1,
+        "9698a5ebc38f435fb5a5f9ff5b84927c": 6,
+        "18479f1c4d4749c5a4c4387846c5d657": 2,
+        "f5b1d9403e49471cab43bc5a1bec336f": 1,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "43e681d168b3442ea78beaf75148f74f": 1,
+        "d8dd3ef1375e4b01bb94cd30f6cf747e": 2,
+        "a68dc5e6a9944c46b7604648a43dcd65": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "K4-6×6_TH",
+          2,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "BOOT,RESET",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0805",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "b82150387a2041b4afd55b90c79c5923"
+          }
+        ],
+        [
+          "100nF",
+          1,
+          "C0805",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "b82150387a2041b4afd55b90c79c5923"
+          }
+        ],
+        [
+          "10u",
+          2,
+          "C0805",
+          "CM,CM1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "b82150387a2041b4afd55b90c79c5923"
+          }
+        ],
+        [
+          "B2B-PH-KL",
+          4,
+          "CONN-TH_2P-P2.00_2B-PH-KL",
+          "D1,D2,D3,POWER2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2683610",
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "B2B-PH-KL",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "cc2564166e6044e9920000c699881f97",
+            "uuid": "86f58b76cf18416fb0b452fc0bdcc130"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x3",
+          1,
+          "HDR-M-2.54_1X3",
+          "J1",
+          {
+            "BOM_Supplier Part": "C180248",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "9f77654394344f25b3de138e0fe05ff6",
+            "uuid": "a68dc5e6a9944c46b7604648a43dcd65"
+          }
+        ],
+        [
+          "LED-0805_G",
+          1,
+          "LED0805_GREEN",
+          "LED",
+          {
+            "BOM_Manufacturer": "国星光电",
+            "BOM_Manufacturer Part": "NCD0805G1",
+            "BOM_Supplier Part": "C84260",
+            "BOM_Supplier": "",
+            "puuid": "df7b9c1c92a741e3a4e90f224547567e",
+            "uuid": "ba1f207f2c0447edbd5beb657b435022"
+          }
+        ],
+        [
+          "DS-01RP_C319063",
+          2,
+          "SW-TH_DS-01RP",
+          "LS,PS",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C319063",
+            "BOM_Manufacturer": "XKB Connectivity(中国星坤)",
+            "BOM_Manufacturer Part": "DS-01RP",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "536f05fc7a3a45ffa2cee4745ad75148",
+            "uuid": "d8dd3ef1375e4b01bb94cd30f6cf747e"
+          }
+        ],
+        [
+          "B3B-PH-K-S(LF)(SN)",
+          1,
+          "CONN-TH_B3B-PH-K-S",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "B3B-PH-K-S(LF)(SN)",
+            "BOM_Supplier Part": "C131339",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9c26eefbc9fa41238c429ab64a956037",
+            "uuid": "43e681d168b3442ea78beaf75148f74f"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x4",
+          1,
+          "HDR-M-2.54_1X4",
+          "PROG",
+          {
+            "BOM_Supplier Part": "C124378",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "282f7786cb6144d097ae00194c3e3fb3",
+            "uuid": "f5b1d9403e49471cab43bc5a1bec336f"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0805",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "9698a5ebc38f435fb5a5f9ff5b84927c"
+          }
+        ],
+        [
+          "100k",
+          3,
+          "R0805",
+          "RD1,RD2,RD3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "9698a5ebc38f435fb5a5f9ff5b84927c"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0805",
+          "RE,RO",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "9698a5ebc38f435fb5a5f9ff5b84927c"
+          }
+        ],
+        [
+          "AMS1117-3.3V",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "REG2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2688239",
+            "BOM_Manufacturer": "WPMtek(维攀微)",
+            "BOM_Manufacturer Part": "AMS1117-3.3V",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "09952c2799c54b76904e264324ada8f3",
+            "uuid": "908ced202529416bac1203a9b300d842"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "TEST",
+          {
+            "BOM_Supplier Part": "C124375",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "ESP32-WROOM-32D",
+          1,
+          "WIFIM-SMD_39P-L25.5-W18.0-P1.27-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C473012",
+            "BOM_Manufacturer": "ESPRESSIF(乐鑫)",
+            "BOM_Manufacturer Part": "ESP32-WROOM-32D-N4",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e6052af1dfb44e85bf3d28af7b8ab9ab",
+            "uuid": "714512e4b6984cfc945e221936c566fe"
+          }
+        ]
+      ],
+      "updateTime": 1686625807,
+      "createTime": 1686588778,
+      "histories": [],
+      "created_at": "2023-06-12 22:22:58",
+      "updated_at": "2023-06-13 08:40:07"
+    },
+    {
+      "uuid": "68a190007d17c14d4ae0a01b55816239",
+      "puuid": "232c6a38302a2fc4cbce04ab85c2d270",
+      "title": "PCB_fnl",
+      "filename": "PCB_fnl.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "557c105168d444a992e25584f55bcbb2": 2,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 4,
+        "cc2564166e6044e9920000c699881f97": 4,
+        "9f77654394344f25b3de138e0fe05ff6": 1,
+        "df7b9c1c92a741e3a4e90f224547567e": 1,
+        "536f05fc7a3a45ffa2cee4745ad75148": 2,
+        "9c26eefbc9fa41238c429ab64a956037": 1,
+        "282f7786cb6144d097ae00194c3e3fb3": 1,
+        "b60f399a7a7e41848b2be1eb49c79141": 6,
+        "09952c2799c54b76904e264324ada8f3": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "e6052af1dfb44e85bf3d28af7b8ab9ab": 1
+      },
+      "BOM": [],
+      "updateTime": 1686739548,
+      "createTime": 1686631850,
+      "histories": [],
+      "created_at": "2023-06-13 10:20:50",
+      "updated_at": "2023-06-14 16:15:48"
+    }
+  ],
+  "sort": [],
+  "title": "fnl",
+  "foldername": "fnl",
+  "schfilename": "fnl.json",
+  "schfilemtime": 1686625807227
+}
